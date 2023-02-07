@@ -93,3 +93,12 @@ print(cars.sorted())
 
 //to be continued
 
+print(Array(emojiTest.unicodeScalars))
+
+
+print(0x1F1E6)
+
+import UIKit
+
+let heart1 = UIImage(named: "heart");
+print(heart1)
